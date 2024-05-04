@@ -12,7 +12,7 @@ This repository contains HTML and CSS files for a website offering free programm
 
 ## Introduction
 
-This website is created by Aadil Latif and offers free programming courses in collaboration with NSDC, ITM Edutech, and GDG MAD. The courses cover a range of programming languages and technologies, providing participants with the opportunity to enhance their skills and earn branded certificates.
+This website is created by Sanjna Chatani and offers free programming courses in collaboration with NSDC, ITM Edutech, and GDG MAD. The courses cover a range of programming languages and technologies, providing participants with the opportunity to enhance their skills and earn branded certificates.
 
 ## Features
 
@@ -25,7 +25,7 @@ This website is created by Aadil Latif and offers free programming courses in co
 
 ## Usage
 
-To use the website, simply open the [`Free Courses`](https://iaadillatif.github.io/free-courses) in a web browser. The website provides information about various programming courses along with enrollment links. Follow the steps mentioned on the website to join the courses.
+To use the website, simply open the [`Free Courses`](https://sanjna-chatani.github.io/free-courses-letsup) in a web browser. The website provides information about various programming courses along with enrollment links. Follow the steps mentioned on the website to join the courses.
 
 ## Contributing
 
@@ -44,4 +44,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 2. Click the Enroll button.
 3. After enrolling, you must sign up from your email.
 
-For more details, visit the https://iaadillatif.github.io/free-courses.
+For more details, visit the https://sanjna-chatani.github.io/free-courses-letsup.
